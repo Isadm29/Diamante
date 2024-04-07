@@ -1,6 +1,4 @@
-# Diamante
-
-Bono Descuento  
+# Diamante 
 <!DOCTYPE html>
 <html lang="es">
 <head>
